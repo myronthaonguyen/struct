@@ -1,0 +1,124 @@
+// http://hidaacademy.com/data.json
+[
+   {
+       "id":"01",
+       "tit":"Phim Hành Động",
+       "tit_khongdau":"phimhanhdong",
+       "listVideos":[
+           {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           },
+            {
+               "idVideo":"Gw9PWocKMY4",
+               "ten":"Cảm ơn người đã rời xa tôi",
+               "ten_khongdau":"cam on nguoi da roi xa toi",
+               "linkHinh":"http://www.voh.com.vn/uploads/thumbnail/2015/04/14/110953phamhongphuoc.jpg"
+           },
+            {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           }
+       ]
+   },{
+       "id":"01",
+       "tit":"Phim Hành Động",
+       "tit_khongdau":"phimhanhdong",
+       "listVideos":[
+           {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           },
+            {
+               "idVideo":"Gw9PWocKMY4",
+               "ten":"Cảm ơn người đã rời xa tôi",
+               "ten_khongdau":"cam on nguoi da roi xa toi",
+               "linkHinh":"http://www.voh.com.vn/uploads/thumbnail/2015/04/14/110953phamhongphuoc.jpg"
+           },
+            {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           }
+       ]
+   },{
+       "id":"01",
+       "tit":"Phim Hành Động",
+       "tit_khongdau":"phimhanhdong",
+       "listVideos":[
+           {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           },
+            {
+               "idVideo":"Gw9PWocKMY4",
+               "ten":"Cảm ơn người đã rời xa tôi",
+               "ten_khongdau":"cam on nguoi da roi xa toi",
+               "linkHinh":"http://www.voh.com.vn/uploads/thumbnail/2015/04/14/110953phamhongphuoc.jpg"
+           },
+            {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           }
+       ]
+   },{
+       "id":"01",
+       "tit":"Phim Hành Động",
+       "tit_khongdau":"phimhanhdong",
+       "listVideos":[
+           {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           },
+            {
+               "idVideo":"Gw9PWocKMY4",
+               "ten":"Cảm ơn người đã rời xa tôi",
+               "ten_khongdau":"cam on nguoi da roi xa toi",
+               "linkHinh":"http://www.voh.com.vn/uploads/thumbnail/2015/04/14/110953phamhongphuoc.jpg"
+           },
+            {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           }
+       ]
+   },{
+       "id":"01",
+       "tit":"Phim Hành Động",
+       "tit_khongdau":"phimhanhdong",
+       "listVideos":[
+           {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           },
+            {
+               "idVideo":"Gw9PWocKMY4",
+               "ten":"Cảm ơn người đã rời xa tôi",
+               "ten_khongdau":"cam on nguoi da roi xa toi",
+               "linkHinh":"http://www.voh.com.vn/uploads/thumbnail/2015/04/14/110953phamhongphuoc.jpg"
+           },
+            {
+               "idVideo":"0wWdFS-e49A",
+               "ten":"Thuỷ Thần",
+               "ten_khongdau":"thuythan",
+               "linkHinh":"https://4.bp.blogspot.com/_NcOpDpOiGi8/TbJrSnq3xXI/AAAAAAAAAY0/bdOXFqcIoY8/bw1_23.jpg"
+           }
+       ]
+   } 
+]
